@@ -1,0 +1,6 @@
+{
+  "name": "Music Distribution Service",
+  "description": "An anonymous, full-stack, keyless music distribution hub. Distribute tracks to public servers and generate custom fan landing pages with live audio streaming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
